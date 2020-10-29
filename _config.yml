@@ -9,9 +9,9 @@ description: "Jasa pembuatan website perusahaan, toko online, aplikasi android d
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Heru
   pic: 1
-  position: Lead Designer
+  position: Lead Developer
   social:
     - title: twitter
       url: #
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Zio
   pic: 2
   position: Lead Marketer
   social:
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Haya
   pic: 3
-  position: Lead Developer
+  position: Lead Designer
   social:
     - title: twitter
       url: #
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Kp. Gaga, 006/004 No.53, Semanan, Kalideres
+  - line: Jakarta Barat, DKI Jakarta, 11850, Indonesia
 
 # Build settings
 markdown: kramdown
