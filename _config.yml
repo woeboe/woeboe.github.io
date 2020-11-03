@@ -45,7 +45,7 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: whatsapp 
-    url: https://wa.me/send?phone=6285211860081&text=Halo,%20saya%20ingin%20tanya%20tentang%20pembuatan%20website%20atau%20aplikasi%20di%20Web8App.
+    url: https://api.whatsapp.com/send?phone=6285211860081&text=Halo,%20saya%20ingin%20tanya%20tentang%20pembuatan%20website%20atau%20aplikasi%20di%20Web8App.
   - title: twitter
     url: https://twitter.com/web8app
   - title: facebook
