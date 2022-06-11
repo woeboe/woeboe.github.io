@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /app-privacy
+---
+
 **APP PRIVACY POLICY**
 
 Last Updated June 11, 2022
