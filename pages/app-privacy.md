@@ -3,7 +3,15 @@ layout: page
 permalink: /app-privacy
 ---
 
-**APP PRIVACY POLICY**
+<section class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">APP PRIVACY POLICY</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
 
 Last Updated June 11, 2022
 
@@ -88,3 +96,7 @@ If you have any questions regarding our Privacy Policy, or in the event that you
 **Governing Law**
 
 This Privacy Policy constitutes a binding agreement between you and Web8App. Any matter relating to this Privacy Policy shall be governed and construed in accordance with the laws of the State of Virginia, USA, without giving effect to any choice or conflict of law rules, and any and all disputes, claims, and causes of action arising out of or connected with this Privacy Policy shall be resolved exclusively via arbitration before the American Arbitration Association in Virginia, in accordance with the then current Commercial Arbitration Rules of the American Arbitration Association. Nothing herein shall be construed to preclude any party from seeking injunctive relief in order to protect its rights pending an outcome in arbitration. To the extent permitted by law, you agree that you will not bring, join or participate in any class action lawsuit as to any claim, dispute or controversy that you may have arising out of or connected with this Privacy Policy, the Services, and/or Web8App. You agree to the entry of injunctive relief to stop such a lawsuit or to remove you as a participant in the suit. Any and all claims, judgments and awards filed by You shall be limited to actual out-of-pocket costs incurred by You but in no event attorneys’ fees. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU.
+
+</div>
+        </div>
+    </section>
