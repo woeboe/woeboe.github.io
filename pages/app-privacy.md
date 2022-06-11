@@ -2,12 +2,11 @@
 layout: page
 permalink: /app-privacy
 ---
-<p stylie="margin-top: 100px; margin-bottom: 100px; margin-right: 100px; margin-left: 100px;>
+
+## APP PRIVACY POLICY
 
 Last Updated June 11, 2022
 
-## APP PRIVACY POLICY
-           
 By installing the mobile application linking to this privacy policy (the “Privacy Policy” and “Affiliated Application”), you are agreeing to comply with, and be bound by, the following Privacy Policy, and when applicable any other Web8App operating rules policies, and other supplemental terms and conditions or documents that may be published from time to time. Please review the Privacy Policy carefully.
 
 **General**
@@ -89,4 +88,3 @@ If you have any questions regarding our Privacy Policy, or in the event that you
 **Governing Law**
 
 This Privacy Policy constitutes a binding agreement between you and Web8App. Any matter relating to this Privacy Policy shall be governed and construed in accordance with the laws of the State of Virginia, USA, without giving effect to any choice or conflict of law rules, and any and all disputes, claims, and causes of action arising out of or connected with this Privacy Policy shall be resolved exclusively via arbitration before the American Arbitration Association in Virginia, in accordance with the then current Commercial Arbitration Rules of the American Arbitration Association. Nothing herein shall be construed to preclude any party from seeking injunctive relief in order to protect its rights pending an outcome in arbitration. To the extent permitted by law, you agree that you will not bring, join or participate in any class action lawsuit as to any claim, dispute or controversy that you may have arising out of or connected with this Privacy Policy, the Services, and/or Web8App. You agree to the entry of injunctive relief to stop such a lawsuit or to remove you as a participant in the suit. Any and all claims, judgments and awards filed by You shall be limited to actual out-of-pocket costs incurred by You but in no event attorneys’ fees. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU.
-           </p>
